@@ -3,6 +3,6 @@
 - ### TicTacToe.py 
   Two player Tic Tac Toe in Python.
 
-- ###TicTacToeAI.py
+- ### TicTacToeAI.py
   Tic Tac Toe with computer player in Python
 
