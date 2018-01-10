@@ -25,7 +25,7 @@ def checkWin(board):
     elif board['low-L'] == 'O' and board['low-M'] == 'O' and board['low-R'] == '0':
         winner = 'O'
     #All vertical
-    if board['top-L'] == 'X' and board['mid-L'] == 'X' and board['low-L']=='X':
+    elif board['top-L'] == 'X' and board['mid-L'] == 'X' and board['low-L']=='X':
        winner = 'X'
     elif board['top-L'] == 'O' and board['mid-L'] == 'O' and board['low-L'] == 'O':
        winner = 'O'
@@ -38,7 +38,7 @@ def checkWin(board):
     elif board['top-R'] == 'O' and board['mid-R'] == 'O' and board['low-R'] == '0':
        winner = 'O'
     #All Diagonal
-    if board['top-L'] == 'X' and board['mid-M'] == 'X' and board['low-R']=='X':
+    elif board['top-L'] == 'X' and board['mid-M'] == 'X' and board['low-R']=='X':
        winner = 'X'
     elif board['top-L'] == 'O' and board['mid-M'] == 'O' and board['low-R'] == 'O':
        winner = 'O'
