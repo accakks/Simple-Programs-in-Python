@@ -14,7 +14,7 @@ Some short and simple python programs
 Thanks!
 
 ### Programs list
-
+*When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between*
 
 | Name | Description | Contributor |
 | -------- | -------- | -------- |
