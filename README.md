@@ -22,6 +22,7 @@ Thanks!
 | [RockPaperScissors.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/RockPaperScissors.py)   | Rock Paper Scissors with Computer   | [Aakanksha](https://github.com/accakks)     |
 | [countCharacter.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/countCharacter.py)   | Counts number of times each character occurs in the input string.    | [Aakanksha](https://github.com/accakks)     |
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
+| [powerDigitSum.py](--)   | Adds the sum of the digits of 2 raised to a given number.    | [Beatriz](https://github.com/tris-rivers)     |
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
 
 
