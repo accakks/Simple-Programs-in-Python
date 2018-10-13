@@ -24,6 +24,7 @@ Thanks!
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
 [sixers.py] () | Calculates number of days until the next 76ers game this month | [Sabrina Koehler] (https://github.com/sabrinakoehler)|
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
+|Quine.py | Quine of python | [Xiao Tan](https://github.com/tvytlx)
 | [powerDigitSum.py](--)   | Adds the sum of the digits of 2 raised to a given number.    | [Beatriz](https://github.com/tris-rivers)     |
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
 | [CircleDrawer.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/CircleDrawer.py)| draws a green circle in the middle of the screen. | [wolfEXE57](https://github.com/wolfEXE57)
