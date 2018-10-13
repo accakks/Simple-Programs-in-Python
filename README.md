@@ -2,11 +2,11 @@
 Some short and simple python programs
 
 ### Contributing Guidelines
-1. You can add any complete python program or correct/improvise existing one. 
+1. You can add any complete python program or correct/improvise existing one.
 2. Please have a look at exisiting programs and make sure you're not repeating.
 3. Add your program and one line description to the following table with your name.
 - Add your name in the format : <[YourName]><(link to profile)>
-- Add your program name in the format : <[YourProgramName]><(link to program)> 
+- Add your program name in the format : <[YourProgramName]><(link to program)>
 (Add link after your first PR is merged!)
 4. Make a fork and start PR from there. Do not create branches on original repository.
 5. Please follow rightful code of conduct be polite to others.
@@ -24,4 +24,6 @@ Thanks!
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
 | [powerDigitSum.py](--)   | Adds the sum of the digits of 2 raised to a given number.    | [Beatriz](https://github.com/tris-rivers)     |
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
+|batch_rename.py | Batch rename files in a directory using custom logic | [Anmol Singh Jaggi](https://github.com/anmol-singh-jaggi)
 |net_job_creation.py | Query US Census Bureau for job creation data (1980 - 2014) | [DnrkasEFF](https://github.com/DnrkasEFF)
+
