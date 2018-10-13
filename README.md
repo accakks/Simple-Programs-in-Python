@@ -23,6 +23,7 @@ Thanks!
 | [countCharacter.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/countCharacter.py)   | Counts number of times each character occurs in the input string.    | [Aakanksha](https://github.com/accakks)     |
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
+| [KaprekarsConstant.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/KaprekarsConstant.py) | Returns the number of times this routine must be performed until 6174 is reached. | [Emanuel H](https://github.com/Emanuelh77) |
 
 
 
