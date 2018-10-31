@@ -24,7 +24,7 @@ Thanks!
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
 | [mp3_duration.py](https://github.com/srbilla/Simple-Programs-in-Python/blob/master/mp3_duration.py) | Returns the duration of mp3 file | [Santhosh](https://github.com/srbilla) |
 [sixers.py] () | Calculates number of days until the next 76ers game this month | [Sabrina Koehler] (https://github.com/sabrinakoehler)|
-|koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
+|koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar) |
 |Quine.py | Quine of python | [Xiao Tan](https://github.com/tvytlx)
 | [powerDigitSum.py](--)   | Adds the sum of the digits of 2 raised to a given number.    | [Beatriz](https://github.com/tris-rivers)     |
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
@@ -32,4 +32,7 @@ Thanks!
 |batch_rename.py | Batch rename files in a directory using custom logic | [Anmol Singh Jaggi](https://github.com/anmol-singh-jaggi)
 |net_job_creation.py | Query US Census Bureau for job creation data (1980 - 2014) | [DnrkasEFF](https://github.com/DnrkasEFF)
 |positive_word.py | Get a positive word | [shopro](https://github.com/shopro)
+|CovertDecimaltoBin._Octal_Hexadecimal.py | To convert decimal value into octal,binary and hexadecimal | [Akshay Kumar](https://github.com/GHakshay)
+| [KaprekarsConstant.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/KaprekarsConstant.py) | Returns the number of times this routine must be performed until 6174 is reached. | [Emanuel H](https://github.com/Emanuelh77) |
+
 
