@@ -23,7 +23,7 @@ Thanks!
 | [countCharacter.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/countCharacter.py)   | Counts number of times each character occurs in the input string.    | [Aakanksha](https://github.com/accakks)     |
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
 | [mp3_duration.py](https://github.com/srbilla/Simple-Programs-in-Python/blob/master/mp3_duration.py) | Returns the duration of mp3 file | [Santhosh](https://github.com/srbilla) |
-[sixers.py] () | Calculates number of days until the next 76ers game this month | [Sabrina Koehler] (https://github.com/sabrinakoehler)|
+[sixers.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/sixers.py) | Calculates number of days until the next 76ers game this month | [Sabrina Koehler](https://github.com/sabrinakoehler)|
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
 |Quine.py | Quine of python | [Xiao Tan](https://github.com/tvytlx)
 | [powerDigitSum.py](--)   | Adds the sum of the digits of 2 raised to a given number.    | [Beatriz](https://github.com/tris-rivers)     |
