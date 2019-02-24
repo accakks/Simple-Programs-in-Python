@@ -18,6 +18,7 @@ Thanks!
 
 | Name | Description | Contributor |
 | -------- | -------- | -------- |
+|[FileComparison.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/FileComparison.py)| Downloads and unzip zip files from a webpage, compares them and prints out duplicate sentences|[Aakanksha](https://github.com/accakks)     |
 | [TicTacToe.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/TicTacToe.py)   | 2 Player Tic Tac Toe    | [Aakanksha](https://github.com/accakks)     |
 | [RockPaperScissors.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/RockPaperScissors.py)   | Rock Paper Scissors with Computer   | [Aakanksha](https://github.com/accakks)     |
 | [countCharacter.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/countCharacter.py)   | Counts number of times each character occurs in the input string.    | [Aakanksha](https://github.com/accakks)     |
