@@ -1,4 +1,4 @@
-print "Enter number of elements you want to sort lower to higher: "
+print ("Enter number of elements you want to sort lower to higher: ")
 
 
 ary = []
@@ -6,15 +6,15 @@ cup = 0
 
 while 1:
 
-	n = input()
+	n = int(input())
 
 	if (n > 0):
 
-		print "Enter elements :"
+		print ("Enter elements: ")
 
 		for x in range(n):
 
-			ary.append( input() )
+			ary.append(int(input()))
 
 
 		break
