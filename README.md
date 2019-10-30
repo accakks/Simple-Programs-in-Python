@@ -25,6 +25,7 @@ Thanks!
 | temperature_table.py | Prints a table of fahrenheit and Celsius values | [Eventhisone](https://github.com/eventhisone)
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
 | [mp3_duration.py](https://github.com/srbilla/Simple-Programs-in-Python/blob/master/mp3_duration.py) | Returns the duration of mp3 file | [Santhosh](https://github.com/srbilla) |
+| [MakeThePolygon.py](--) | Construct a regular polygon based on user's input | [IfYouThenTrue](https://github.com/IfYouThenTrue) |
 [sixers.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/sixers.py) | Calculates number of days until the next 76ers game this month | [Sabrina Koehler](https://github.com/sabrinakoehler)|
 |koch_snowflake.py | Draw a Koch snowflake fractal with Turtle module | [Lenart Bucar](https://github.com/LenartBucar)
 |Quine.py | Quine of python | [Xiao Tan](https://github.com/tvytlx)
@@ -37,4 +38,3 @@ Thanks!
 |positive_word.py | Get a positive word | [shopro](https://github.com/shopro)
 |CovertDecimaltoBin._Octal_Hexadecimal.py | To convert decimal value into octal,binary and hexadecimal | [Akshay Kumar](https://github.com/GHakshay)
 | [KaprekarsConstant.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/KaprekarsConstant.py) | Returns the number of times this routine must be performed until 6174 is reached. | [Emanuel H](https://github.com/Emanuelh77) |
-| [MakeThePolygon.py](--) | Construct a regular polygon based on user's input | [IfYouThenTrue](https://github.com/IfYouThenTrue) |
