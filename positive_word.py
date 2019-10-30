@@ -1,6 +1,7 @@
-import requests
+import requests 
 from bs4 import BeautifulSoup
 
+#created a function to get the random word
 def get_random_word():
     page = requests.get('https://www.scrapmaker.com/view/sentiment/positive-words-all.txta')
     if page.status_code == 200:
