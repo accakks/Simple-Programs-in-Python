@@ -9,6 +9,6 @@ while num != 0:
   sum += (num%10)
   
   # removes the last digit
-  num /=10
+  num //=10
   
 print(sum)
