@@ -7,11 +7,7 @@ def print_header():
     print()
 
 def get_days():
-    print("The 76ers' next game is in ")
-    today = datetime.date.today()
-    gameday = datetime.date(2018, 10, 17)
-    differenceBetweenDates = gameday - today
-    return differenceBetweenDates.days
+    return (datetime.date(2018, 10, 17)-datetime.date.today())
 
 def main():
     print_header()
