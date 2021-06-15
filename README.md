@@ -21,6 +21,7 @@ Thanks!
 |[FileComparison.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/FileComparison.py)| Downloads and unzip zip files from a webpage, compares them and prints out duplicate sentences|[Aakanksha](https://github.com/accakks)     |
 | [TicTacToe.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/TicTacToe.py)   | 2 Player Tic Tac Toe    | [Aakanksha](https://github.com/accakks)     |
 | [RockPaperScissors.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/RockPaperScissors.py)   | Rock Paper Scissors with Computer   | [Aakanksha](https://github.com/accakks)     |
+| [LinearSearch.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/LinearSearch.py)   | Linear Search   | [Prathima Kadari](https://github.com/prathimacode-hub)     |
 | [countCharacter.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/countCharacter.py)   | Counts number of times each character occurs in the input string.    | [Aakanksha](https://github.com/accakks)     |
 | temperature_table.py | Prints a table of fahrenheit and Celsius values | [Eventhisone](https://github.com/eventhisone)
 | [calculatePi.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/calculatePi.py)   | Calculates PI to a specified number of digits of accuracy.    | [Joseph-Acevedo](https://github.com/joseph-acevedo)     |
